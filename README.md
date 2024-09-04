@@ -24,8 +24,8 @@ To run this project, you'll need to have Python installed along with the followi
 Clone the repository and install the required libraries:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/anthonygreco2019/Machine-Learning-Capstone-Project.git
+cd Machine-Learning-Capstone-Project
 pip install -r requirements.txt
 ```
 
